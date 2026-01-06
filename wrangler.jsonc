@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "kurdistan-brokers-system",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "kurdistan-db",
+			"database_id": "3021fdb6-84d9-428f-91df-192d340ed74c"
+		}
+	]
+}
